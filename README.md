@@ -5,11 +5,11 @@ Kubernetes Study
 
 공부 순서는 『쿠버네티스 입문: 90가지 예제로 배우는 컨테이너 관리 자동화 표준』 책을 기반으로 합니다.
 
-[comment]: <> ([![쿠버네티스 표지]&#40;image/kubernetes%20cover.jpg&#41;{: width="400" height="544"}]&#40;https://github.com/dybooksIT/kubernetes-book/blob/master/readme/cover.jpg&#41;)
-
 <img src="image/kubernetes%20cover.jpg" width="400" height="544">
 
 [이미지 출처](https://github.com/dybooksIT/kubernetes-book/blob/master/readme/cover.jpg)
+
+## 목차
 
 1. k8s란?
     - k8s 특징
