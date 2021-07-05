@@ -3,7 +3,7 @@ Kubernetes Study
 
 ### 쿠버네티스에 대한 기초부터 공부하려고 합니다!
 
-공부 순서는 『쿠버네티스 입문: 90가지 예제로 배우는 컨테이너 관리 자동화 표준』 책을 기반으로 합니다.
+공부 순서는 [『쿠버네티스 입문: 90가지 예제로 배우는 컨테이너 관리 자동화 표준』](https://github.com/dybooksIT/kubernetes-book/blob/master/README.md) 책을 기반으로 합니다.
 
 <img src="image/kubernetes%20cover.jpg" width="400" height="544">
 
