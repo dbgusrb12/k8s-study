@@ -7,6 +7,7 @@ Kubernetes Study
 
 [![쿠버네티스 표지](image/kubernetes%20cover.jpg){: width="400" height="544"}](https://github.com/dybooksIT/kubernetes-book/blob/master/readme/cover.jpg)
 
+<img src="image/kubernetes%20cover.jpg" width="400" height="544">
 
 1. k8s란?
     - k8s 특징
