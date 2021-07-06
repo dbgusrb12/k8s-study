@@ -11,7 +11,7 @@ Kubernetes Study
 
 ## 목차
 
-1. k8s란?
+1. [k8s란?](https://github.com/dbgusrb12/k8s-study/tree/master/01.%20kubernetes)
     - k8s 특징
 2. k8s 설치
     - 도커 데스크톱
