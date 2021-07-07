@@ -11,7 +11,7 @@ Kubernetes Study
 
 ## 목차
 
-1. [k8s란?](https://github.com/dbgusrb12/k8s-study/tree/master/01.%20kubernetes)
+1. [k8s란?](https://github.com/dbgusrb12/k8s-study/tree/master/01.kubernetes)
     - k8s 특징
 2. k8s 컨테이너 실행
     - kubectl
