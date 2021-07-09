@@ -13,7 +13,7 @@ Kubernetes Study
 
 1. [k8s란?](https://github.com/dbgusrb12/k8s-study/tree/master/01.kubernetes)
     - k8s 특징
-2. k8s 컨테이너 실행
+2. [k8s 컨테이너 실행](https://github.com/dbgusrb12/k8s-study/tree/master/02.Running%20containers%20in%20k8s)
     - kubectl
     - 디플로이먼트
     - 클러스터 외부에서 접근
