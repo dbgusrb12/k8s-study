@@ -194,3 +194,4 @@ kubernetes   ClusterIP   10.96.0.1    <none>        443/TCP   26h
 이렇게 나온다면 정상적으로 삭제 된 것이다.
 
 # 디플로이먼트 (deployment)
+
